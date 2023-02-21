@@ -1,0 +1,28 @@
+Thing to do in the Project
+
+--> Bussine Rules
+
+- Add Option to Delete Note [X]
+- Change Notes Color to show priority
+- Change Notes Position
+- Option to Modify the Card
+- Login Option to Save the Notes
+- Mobile Friend / Responsible
+- Messages
+- Correct The Header of The pages
+- Form to Sugestions
+- Menu with Other Options
+- Public the Project - Deploy Vercel
+- Unitary Tests
+- Loading Component
+
+--> Add Stack to the Project
+
+- Style With Motion
+- Test Jest
+- Story Book
+- Documentation
+- Just Use Dark Theme
+- Recoil
+- GitHub
+- React Hook Form
