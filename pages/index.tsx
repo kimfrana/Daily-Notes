@@ -10,7 +10,7 @@ export default function App() {
         <h1 style={{color: 'white', fontSize: '42px'}}>SIMPLIFY</h1>
         <h1 style={{color: 'white', fontSize: '42px'}}>YOUR LIFE</h1>
         <h1 style={{color: 'white', fontSize: '42px'}}>WITH</h1>
-        <h1 style={{color: 'white', fontSize: '52px', color: '#f1b'}}>DAILY NOTES.</h1>
+        <h1 style={{color: '#f1b', fontSize: '52px'}}>DAILY NOTES.</h1>
       </div>
       <Button 
       style={{  border: 'solid 3px #C147E9', color: 'white', fontSize: '28px', width: '302px', marginTop: '22px', cursor: 'pointer'}}
