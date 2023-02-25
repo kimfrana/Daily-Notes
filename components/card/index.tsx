@@ -1,7 +1,7 @@
 import { Card, CardActionArea, CardContent, Typography } from '@mui/material';
 import { useRef } from 'react';
 import { useRecoilState } from "recoil";
-import { cardList } from '../state/atom';
+import { cardList } from '../../states/state/atom';
 
 
 interface CardDataProps {

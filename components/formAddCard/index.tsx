@@ -1,7 +1,7 @@
 import { Button, Dialog, DialogActions, DialogContent, DialogTitle, TextField } from "@material-ui/core";
 import { useState } from "react";
 import { useSetRecoilState } from "recoil";
-import { cardList } from '../state/atom';
+import { cardList } from '../../states/state/atom';
 
 // interface CardNoteType {
 //   id: string,

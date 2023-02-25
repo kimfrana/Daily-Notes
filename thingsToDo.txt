@@ -26,3 +26,4 @@ Thing to do in the Project
 - Recoil
 - GitHub
 - React Hook Form
+- ESlint and Pritier
